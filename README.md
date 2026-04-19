@@ -1,2 +1,1 @@
-# master-thesis-2008
-Jeu de Sokoban, recherche de solutions optimales
+# Jeu de Sokoban - Recherche de solutions optimales
