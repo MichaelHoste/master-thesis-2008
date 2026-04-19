@@ -14,7 +14,7 @@ Texte du mémoire : [Memoire.pdf](https://raw.githubusercontent.com/MichaelHoste
 
 ### Présentation
 
-Présentation du mémoire : [Memoire.pdf](https://raw.githubusercontent.com/MichaelHoste/master-thesis-2008/master/Presentation.pdf).
+Présentation du mémoire : [Présentation.pdf](https://raw.githubusercontent.com/MichaelHoste/master-thesis-2008/master/Presentation.pdf).
 
 <a href="https://raw.githubusercontent.com/MichaelHoste/master-thesis-2008/master/Presentation.pdf" target="_blank">
   <img width="720" height="540" alt="Presentation" src="https://github.com/user-attachments/assets/2d683d4e-5613-46b7-8c23-bc7d190c563b" />
